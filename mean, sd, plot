@@ -14,3 +14,5 @@
 [1] 515442
  >plot(house$AVERAGE.SALE.PRICE)
  >plot(house$LOWEST.SALE.PRICE)
+ >plot(house$MEDIAN.SALE.PRICE)
+ >plot(house$HIGHEST.SALE.PRICE)
