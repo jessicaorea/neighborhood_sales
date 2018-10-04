@@ -1,0 +1,16 @@
+> mean(house$LOWEST.SALE.PRICE)
+[1] 277130.4
+> mean(house$AVERAGE.SALE.PRICE)
+[1] 462271.9
+> mean(house$AVERAGE.SALE.PRICE)
+[1] 462271.9
+> mean(house$HIGHEST.SALE.PRICE)
+[1] 677535
+> sd(house$LOWEST.SALE.PRICE)
+[1] 201269.2
+> sd(house$AVERAGE.SALE.PRICE)
+[1] 208933.6
+> sd(house$HIGHEST.SALE.PRICE)
+[1] 515442
+ >plot(house$AVERAGE.SALE.PRICE)
+ >plot(house$LOWEST.SALE.PRICE)
